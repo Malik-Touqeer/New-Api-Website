@@ -1,0 +1,9 @@
+.mainDiv{
+    display: flex;
+    flex-wrap: wrap; 
+}
+.card{
+    margin-left: 7.2rem;
+    height: 300px;
+    width: 250px;
+}
